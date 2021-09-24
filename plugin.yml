@@ -1,0 +1,12 @@
+name: "alexBuldHelper"
+version: "0.1"
+main: "com.alexschubi.alexbuildhelper.Main"
+api-version: 1.13
+author: "alexschubi"
+commands:
+  abh:
+    aliases: [alexbuildhelper]
+    description: "show particles for better building"
+    permission: "0"
+    usage: "abh [circle/kill] [<radius>] <particle> <amountOfDegrees>"
+
