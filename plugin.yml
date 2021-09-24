@@ -1,4 +1,4 @@
-name: "alexBuldHelper"
+name: "alexBuildHelper"
 version: "0.1"
 main: "com.alexschubi.alexbuildhelper.Main"
 api-version: 1.13
